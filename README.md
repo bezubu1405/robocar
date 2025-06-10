@@ -33,15 +33,19 @@ A joystick to steer
 A slider to control speed
 
 🔌 Wiring Diagram
+
 Component	ESP32 Pin
+
 Motor 1 REN	32
 Motor 1 LEN	33
 Motor 1 RPWM	25
 Motor 1 LPWM	26
+
 Motor 2 REN	27
 Motor 2 LEN	14
 Motor 2 RPWM	12
 Motor 2 LPWM	13
+
 Light Relay	2
 
 Be sure to match your wiring to these pins for proper operation.
@@ -55,3 +59,8 @@ Use a step-down converter (e.g., buck converter) to power ESP32 from the main ba
 
 📄 License
 Feel free to use or modify for your own projects!
+
+
+![webinterface](https://github.com/user-attachments/assets/3a64dc45-ddad-43ac-8e47-eeca2f03e439)     ![image](https://github.com/user-attachments/assets/f8a81a2e-adbb-44c8-8a39-cb2fe229b230)
+
+
